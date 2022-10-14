@@ -16,7 +16,7 @@ const DEFAULT_GUN_OPTIONS = [
                 dimensions: {
                         width: 0.06,
                         height: -0.02,
-                        depth: 0.2,
+                        depth: 0.1,
                 },
                 model: {
                         resourceId: "artifact:2112691761322131840",
