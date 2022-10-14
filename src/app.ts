@@ -19,7 +19,7 @@ const DEFAULT_GUN_OPTIONS = [
                         depth: 0.2,
                 },
                 model: {
-                        resourceId: "artifact:2044161675715674908",
+                        resourceId: "artifact:2112691761322131840",
                         transform: {
                                 position: {
                                         x: 0.0445,
