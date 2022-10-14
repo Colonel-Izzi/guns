@@ -22,9 +22,9 @@ const DEFAULT_GUN_OPTIONS = [
                         resourceId: "artifact:2112691761322131840",
                         transform: {
                                 position: {
-                                        x: 0.0445,
+                                        x: 0,
                                         y: 0,
-                                        z: 0.2255
+                                        z: 0
                                 },
                                 rotation: {
                                         x: 180,
