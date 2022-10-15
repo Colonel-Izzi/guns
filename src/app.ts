@@ -38,8 +38,8 @@ const DEFAULT_GUN_OPTIONS = [
                         transform: {
                                 position: {
                                         x: 0,
-                                        y: 0.0447,
-                                        z: 0.1548
+                                        y: 0.0247,
+                                        z: 0.1293
                                 }
                         },
                         ttl: 10,
