@@ -14,9 +14,9 @@ const DEFAULT_GUN_OPTIONS = [
                 name: "revolver",
                 attachPoint: "left-hand",
                 dimensions: {
-                        width: 0.06,
-                        height: -0.02,
-                        depth: 0.2,
+                        width: 0.04,
+                        height: 0.1,
+                        depth: 0.25,
                 },
                 model: {
                         resourceId: "artifact:2112691761322131840",
