@@ -3,9 +3,9 @@
 		"name": "revolver",
 		"attachPoint": "left-hand",
 		"dimensions": {
-                        width: 0.04,
-                        height: 0.1,
-                        depth: 0.25,
+			"width": 0.04,
+			"height": 0.1,
+			"depth": 0.25
 		},
 		"model": {
 			"resourceId": "artifact:2112691761322131840",
